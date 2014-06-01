@@ -3,7 +3,7 @@
 module.exports = {
     db: 'dbuser01:p4ssw0rdBS@ds045089.mongolab.com:45089/mindappt',
     app: {
-        name: 'MEAN - A Modern Stack - Production'
+        name: 'Mindappt - Willpower knows no obstacles.'
     },
     facebook: {
         clientID: 'APP_ID',

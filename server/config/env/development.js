@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-    db: 'mongodb://localhost/mean-dev',
+    db: 'mongodb://localhost/mindappt',
     app: {
-        name: 'MEAN - FullStack JS - Development'
+        name: 'Mindappt(Dev) - Willpower knows no obstacles.'
     },
     facebook: {
         clientID: 'APP_ID',
