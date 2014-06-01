@@ -6,9 +6,9 @@ module.exports = {
         name: 'Mindappt - Willpower knows no obstacles.'
     },
     facebook: {
-        clientID: 'APP_ID',
-        clientSecret: 'APP_SECRET',
-        callbackURL: 'http://localhost:3000/auth/facebook/callback'
+        clientID: '1493234827573683',
+        clientSecret: '40179cd73b3e16a87ed91faf6b925317',
+        callbackURL: 'http://mindappt.heroku.com/auth/facebook/callback'
     },
     twitter: {
         clientID: 'CONSUMER_KEY',
